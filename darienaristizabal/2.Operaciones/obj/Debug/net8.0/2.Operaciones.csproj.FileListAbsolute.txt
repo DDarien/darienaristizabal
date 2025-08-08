@@ -1,0 +1,15 @@
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\bin\Debug\net8.0\2.Operaciones.exe
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\bin\Debug\net8.0\2.Operaciones.deps.json
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\bin\Debug\net8.0\2.Operaciones.runtimeconfig.json
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\bin\Debug\net8.0\2.Operaciones.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\bin\Debug\net8.0\2.Operaciones.pdb
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.AssemblyInfoInputs.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.AssemblyInfo.cs
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.csproj.CoreCompileInputs.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.sourcelink.json
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\refint\2.Operaciones.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.pdb
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\2.Operaciones.genruntimeconfig.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\2.Operaciones\obj\Debug\net8.0\ref\2.Operaciones.dll
