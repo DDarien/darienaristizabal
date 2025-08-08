@@ -1,0 +1,15 @@
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\bin\Debug\net8.0\1.InicialVisualStudio.exe
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\bin\Debug\net8.0\1.InicialVisualStudio.deps.json
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\bin\Debug\net8.0\1.InicialVisualStudio.runtimeconfig.json
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\bin\Debug\net8.0\1.InicialVisualStudio.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\bin\Debug\net8.0\1.InicialVisualStudio.pdb
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.AssemblyInfoInputs.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.AssemblyInfo.cs
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.csproj.CoreCompileInputs.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.sourcelink.json
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\refint\1.InicialVisualStudio.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.pdb
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\1.InicialVisualStudio.genruntimeconfig.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\1.InicialVisualStudio\1.InicialVisualStudio\obj\Debug\net8.0\ref\1.InicialVisualStudio.dll
