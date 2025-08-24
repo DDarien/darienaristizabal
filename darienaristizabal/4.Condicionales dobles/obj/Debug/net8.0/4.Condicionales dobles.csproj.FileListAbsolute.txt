@@ -1,0 +1,15 @@
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\bin\Debug\net8.0\4.Condicionales dobles.exe
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\bin\Debug\net8.0\4.Condicionales dobles.deps.json
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\bin\Debug\net8.0\4.Condicionales dobles.runtimeconfig.json
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\bin\Debug\net8.0\4.Condicionales dobles.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\bin\Debug\net8.0\4.Condicionales dobles.pdb
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.AssemblyInfoInputs.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.AssemblyInfo.cs
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.csproj.CoreCompileInputs.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.sourcelink.json
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\refint\4.Condicionales dobles.dll
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.pdb
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\4.Condicionales dobles.genruntimeconfig.cache
+E:\Fundamentos de programacion\c#\darienaristizabal\4.Condicionales dobles\obj\Debug\net8.0\ref\4.Condicionales dobles.dll
